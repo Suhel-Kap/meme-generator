@@ -1,0 +1,23 @@
+.header {
+    height: 6rem;
+    background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+    padding-bottom: 15px;
+    width: 100vw;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+    padding-bottom: 0;
+}
+
+.logo > img {
+    max-width: 3.75rem;
+    margin-right: 0.6rem;
+}
+
+.logo > h1 {
+    font-size: 1.2rem;
+    color: #fff;
+}
